@@ -10,7 +10,7 @@
   <li>線は分岐してはいけない</li>
 </ul>
 
-<img src="./images/image1.gif" width=230px alt="theme">
+<img src="https://github.com/dasadc/resources/blob/master/adc2017/images/image1.gif" width=230px alt="theme">
 
 ### 詳細
 
@@ -42,9 +42,10 @@
       <li>隣接する上下両方の盤面と接続されるマスは、盤面平面内ではどの線にも接続されていない孤立点となる</li>
     </ol>
 </ul>
-　　(問題フォーマット、回答フォーマットの例)  <a href="./docs/sample_Q_A.zip">テキストダウンロード</a></BR></BR>
-<img src="./images/image3.gif" width=403px alt="Q format"></BR>
-<img src="./images/image4.gif" width=278px alt="A format"></BR>
+　　(問題フォーマット、回答フォーマットの例)  
+  <a href="https://github.com/dasadc/resources/blob/master/adc2017/docs/sample_Q_A.zip">テキストダウンロード</a></BR></BR>
+<img src="https://github.com/dasadc/resources/blob/master/adc2017/images/image3.gif" width=403px alt="Q format"></BR>
+<img src="https://github.com/dasadc/resources/blob/master/adc2017/images/image4.gif" width=278px alt="A format"></BR>
 <ul>
   <li>回答ルール</li>
     <ol>
@@ -59,7 +60,7 @@
 </ul>
 　(注)同じ数字の置かれたマスは接続されているものとみなす。コの字型の迂回がある回答などは</BR>
 　　　上記のルールに違反する場合があるため注意すること</BR>
-<img src="./images/image2.gif" width=479px alt="round-about">
+<img src="https://github.com/dasadc/resources/blob/master/adc2017/images/image2.gif" width=479px alt="round-about">
 <ul>
   <li>その他</li>
     <ul>
