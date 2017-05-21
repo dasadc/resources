@@ -49,9 +49,11 @@ ADCへの参加を希望する方は、DAシンポジウム2017の発表申込�
 
 <img src="https://github.com/dasadc/resources/blob/master/adc2017/images/image1.gif" width=230px alt="theme">
 </BR>
+
 ルールの詳細は<a href="./adc2017rule.md">こちら</a></BR>
-ソルバー作成に参考になる情報を<a href="./adc2017ref.md">こちら</a>に登録しました。
-<BR/><BR/>
+
+ソルバー作成に参考になる情報を<a href="./adc2017ref.md">こちら</a>に登録しました。<BR/><BR/>
+
 「ナンバーリンク」は株式会社ニコリの登録商標です。
 
 -----
