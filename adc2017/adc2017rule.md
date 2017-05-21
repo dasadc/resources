@@ -11,6 +11,8 @@
 </ul>
 
 <img src="https://github.com/dasadc/resources/blob/master/adc2017/images/image1.gif" width=230px alt="theme">
+<BR/><BR/>
+「ナンバーリンク」は株式会社ニコリの登録商標です。
 
 ### 詳細
 
@@ -85,5 +87,5 @@
 　　　（線長は、マスの中心を線の起点／終点／曲がる点として測る。XYZ方向とも１マスが長さ１）
   <li>出題ボーナスポイント：参加チームが持参した問題を自分で正解したとき、ボーナスで＋１ポイント</li>
 </ul>
-
+<BR/>
 Copyright (c) 2017 DAシンポジウム実行委員会
