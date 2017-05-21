@@ -47,10 +47,10 @@ ADCへの参加を希望する方は、DAシンポジウム2017の発表申込�
 しました(線の端点が直接ビアに接続されるのも可)。また、盤面サイズの最大値を36X36から
 72X72に拡大します。
 
-<img src="./images/image1.gif" width=230px alt="theme">
+<img src="https://github.com/dasadc/resources/blob/master/adc2017/images/image1.gif" width=230px alt="theme">
 </BR>
-ルールの詳細は<a href="./rule.md">こちら</a></BR>
-ソルバー作成に参考になる情報を<a href="./ref.md">こちら</a>に登録しました。
+ルールの詳細は<a href="./adc2017rule.md">こちら</a></BR>
+ソルバー作成に参考になる情報を<a href="./adc2017ref.md">こちら</a>に登録しました。
 
 -----
 ## ADC自動運営システム
@@ -73,8 +73,8 @@ ADCへの参加を希望する方は、DAシンポジウム2017の発表申込�
 
 1. DAシンポジウム2017幹事より、アカウント情報をメールで送付します。
    (７月上旬頃の予定)
-2. [ADCサービスの利用方法](../adc2015.md)を見ながら、動作確認してください。(2015年に作成した
-   ページのため、一部の例が2017年度のルールと合致していませんが、ご了承下さい)
+2. [ADCサービスの利用方法](https://github.com/dasadc/resources/blob/master/adc2015.md)を見ながら、動作確認してください。
+   (2015年に作成したページのため、一部の例が2017年度のルールと合致していませんが、ご了承下さい)
 3. 自動運営システムに関して、不具合、不明点、提案などありましたら、
    [Issues](https://github.com/dasadc/conmgr/issues "Issues")に
    書き込むか(※GitHubのアカウントが必要)、幹事へメールでお伝え下さい。
