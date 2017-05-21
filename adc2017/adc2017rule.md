@@ -11,7 +11,7 @@
 </ul>
 
 <img src="https://github.com/dasadc/resources/blob/master/adc2017/images/image1.gif" width=230px alt="theme">
-<BR/><BR/>
+<BR/>
 「ナンバーリンク」は株式会社ニコリの登録商標です。
 
 ### 詳細
