@@ -2,7 +2,7 @@
 
 ### ADC2016の情報
 
-(1) 問題と解答　<a href="./docs/ADC2016_Q_A.zip">ダウンロード</a>
+(1) 問題と解答　<a href="https://www.dropbox.com/s/wlvfl1jgfs8n27a/ADC2016_Q_A.zip?dl=0">ダウンロード</a>
 
 ＊問題からVIAの定義を削除することでADC2017の問題と解答の例として使用可能
 
@@ -32,3 +32,7 @@
 <a href="http://bach.istc.kobe-u.ac.jp/sugar/puzzles/numberlink.html">ナンバーリンク(Number Link)パズルをSugar制約ソルバーで解く</a>
 
 <a href="http://bach.istc.kobe-u.ac.jp/copris/puzzles/numberlink/">Numberlink Solver in Copris</a>
+<BR/>
+「ナンバーリンク」は株式会社ニコリの登録商標です。<BR/><BR/>
+リンク先のファイルの著作権はそれぞれの著者にあります。再配布等を行う場合は著者の許諾を得る様にお願いします。<BR/><BR/>
+Copyright (c) 2017 DAシンポジウム実行委員会
