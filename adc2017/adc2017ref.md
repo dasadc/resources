@@ -32,7 +32,7 @@
 <a href="http://bach.istc.kobe-u.ac.jp/sugar/puzzles/numberlink.html">ナンバーリンク(Number Link)パズルをSugar制約ソルバーで解く</a>
 
 <a href="http://bach.istc.kobe-u.ac.jp/copris/puzzles/numberlink/">Numberlink Solver in Copris</a>
-<BR/>
+### 
 「ナンバーリンク」は株式会社ニコリの登録商標です。<BR/><BR/>
 リンク先のファイルの著作権はそれぞれの著者にあります。再配布等を行う場合は著者の許諾を得る様にお願いします。<BR/><BR/>
 Copyright (c) 2017 DAシンポジウム実行委員会
